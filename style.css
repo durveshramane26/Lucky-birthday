@@ -89,3 +89,15 @@ footer p {
     font-weight: 700;
     margin-top: 10px;
 }
+
+.you-lucky{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.you-lucky img {
+    width: 150px;
+    height: 140px;
+}
